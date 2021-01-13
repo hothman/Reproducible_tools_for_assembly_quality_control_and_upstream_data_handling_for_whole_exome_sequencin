@@ -4,6 +4,8 @@
 
 Some challenges would arise when many people try to develop, test and make changes to the same code. Working with `git` will help to to keep a record and manage a multi-contribution projects and creates a reliable collaborative environment. 
 
+You can find a detailed tutorial on `git` and its different  features [here](https://github.com/hothman/PhindAccessHackathon2020/tree/master/gitTutorial)
+
 ### Cloning the content of the repository
 
 Let's say you are assigned to work on the QC pipeline. Some of your colleges has already written a part of the code and now you want to continue working to add other features. Your colleges also uploaded the code to Github. If you want to get the code, you can type: 
